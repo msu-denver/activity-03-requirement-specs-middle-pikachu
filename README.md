@@ -12,14 +12,24 @@ Elect one of you to be the one that will document the requirment specs. They sho
 
 ## System Requirements 
 
-...
+* System should have at minimum 32gigs of ddr5 ram 
+* NVIDIA 4090 or stronger GPU required
+* System should be the latest version of windows vista or ms dos.
 
 ## User Requirements 
 
 ### Functional 
 
-...
+* Users should be able to create and save their own recipes
+* Users should be able to save other peoples recipes
+* Users should be able to create their own version of other peoples recipes
+* Users should be able to save a 3d model visualization of the recipe
+* Users should be able to create a dining room table planner using the 3d models
+* Users should be able to visualize the recipe in different containers
 
 ### Non-functional
 
-...
+* Users should be able to login to the web application
+* Users should be able to be able to create an account.
+* Recipe visualizations should have no upper limit of size
+* 
